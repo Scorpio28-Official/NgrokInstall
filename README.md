@@ -33,3 +33,7 @@ __By: Scorpio28__
 __Informatic in Termux__
 
 https://t.me/Informatic_in_Termux
+
+<p align="center">
+	<img src="https://i.imgur.com/yk5huYn.jpg" width="600px">
+</p>
